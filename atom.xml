@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://haimianbb.github.io/</id>
+    <id>https://haim</id>
     <title>海绵BB</title>
-    <updated>2020-03-01T05:02:38.105Z</updated>
+    <updated>2020-03-01T05:19:35.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://haimianbb.github.io/"/>
-    <link rel="self" href="https://haimianbb.github.io//atom.xml"/>
+    <link rel="alternate" href="https://haim"/>
+    <link rel="self" href="https://haim/atom.xml"/>
     <subtitle>556677</subtitle>
-    <logo>https://haimianbb.github.io//images/avatar.png</logo>
-    <icon>https://haimianbb.github.io//favicon.ico</icon>
+    <logo>https://haim/images/avatar.png</logo>
+    <icon>https://haim/favicon.ico</icon>
     <rights>All rights reserved 2020, 海绵BB</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://haimianbb.github.io//post/hello-gridea</id>
-        <link href="https://haimianbb.github.io//post/hello-gridea">
+        <id>https://haim/post/hello-gridea</id>
+        <link href="https://haim/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
